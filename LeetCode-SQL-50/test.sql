@@ -1,0 +1,1 @@
+Select * from test where value in ('a', 'e', 'i', 'o', 'u');
